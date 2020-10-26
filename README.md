@@ -1,4 +1,6 @@
-# I edited the html code to follow better html semantics.
+# List of changes made in the html and css files
+
+I edited the html code to follow better html semantics.
 
 I made sure all the given links worked properly.
 
